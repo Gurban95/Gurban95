@@ -1,5 +1,7 @@
 https://github.com/mrigankchanda/CEH-Practical
 
+https://github.com/3ls3if/Cybersecurity-Notes/blob/main/readme/ceh-engage-walkthrough/ceh-engage-part-3.md
+
 
 https://github.com/Indrajith-S/CEH-Lab-Notes?tab=readme-ov-file#session-hijacking
 
