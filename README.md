@@ -9,3 +9,11 @@ https://drive.google.com/drive/folders/1m0D9x3zMroKuZ4qWSfEakpVwFOTTXHM8
 
 https://github.com/scriptkkiddie/CEH-Practical-Resources-Learning-Tutorials-Certified-Ethical-Hacker
 
+
+https://github.com/CyberSecurityUP/Guide-CEH-Practical-Master
+
+
+https://github.com/DarkLycn1976/CEH-Practical-Notes-and-Tools
+
+
+https://github.com/dhabaleshwar/CEHPractical
